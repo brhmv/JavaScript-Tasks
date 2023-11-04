@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(0,0, 0) !important;
+    font-size: 30px;
+    height: 100vh !important;
+}
+
+#mainDiv {
+    text-align: center;
+    margin-top: 0px;
+    width: 50vw !important;
+    min-height: 70vh !important;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+
+#textContainer {
+    padding: 10px;
+    flex: 1;
+}
+
+#textEditor {
+    width: 100%;
+    height: 100%;
+    font-size: inherit !important;
+}

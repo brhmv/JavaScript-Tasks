@@ -1,0 +1,32 @@
+body{
+    font-size: 30px !important;
+}
+
+
+#inputDiv{
+    width: fit-content;
+    background-color: gold;
+    text-align: center;
+    position: relative;
+    margin: auto;   
+}
+
+#colorInputDiv{
+    display: flex;
+    flex-flow: row wrap;    
+    margin : 0 auto;
+}
+
+button{
+    font-size: inherit !important;
+}
+
+input{
+    font-size: inherit !important;
+}
+
+#ColorsDiv{
+    display:flex !important;
+    flex-wrap: wrap;
+    background-color: beige;
+}

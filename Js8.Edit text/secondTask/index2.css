@@ -1,0 +1,17 @@
+body{
+    background-color: black !important;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table,th,td {
+    border: 1px solid black;
+    background-color: #f2f2f2;
+}
+
+th {
+    cursor: pointer;
+}
